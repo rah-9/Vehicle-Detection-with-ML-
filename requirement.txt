@@ -2,5 +2,4 @@ ultralytics
 opencv-python
 gradio
 torch
-cv2
 yt_dlp

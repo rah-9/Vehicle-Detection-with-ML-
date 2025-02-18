@@ -14,6 +14,5 @@ To run this project, ensure you have Python and the necessary libraries installe
 
 ```bash
 pip install opencv-python-headless numpy gradio torch yt-dlp ultralytics
-"# Vehicle-Detection-" 
-"# Vehicle-Detection-" 
-"# Vehicle-Detection-with-ML-" 
+
+
